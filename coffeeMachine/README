@@ -1,0 +1,15 @@
+Coffee Machine System
+
+### Project Requirements
+
+* JDK 1.8.
+
+* Maven 2.
+
+* Junit 4.12
+
+Instructions ::
+1. Open in any IDE (Intellij (preferred), Eclipse) and select run. No external configurations required other than the above system requirements
+2. The Test cases are in the test folder
+3. Might take time to run since I have used multithreading and there are lot of sleep operations involved to wait for the execution to get completed (close to 1 minute for the entire run to run)
+4. Preferable to run each test case individually

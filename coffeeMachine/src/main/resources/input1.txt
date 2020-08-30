@@ -1,0 +1,126 @@
+{
+  "machine":
+    {
+      "outlets": {
+        "count_n": 3
+      },
+      "total_items_quantity": [
+        {
+          "type": "hot_water",
+          "quantity": 500
+        },
+        {
+          "type": "hot_milk",
+          "quantity": 1000
+        },
+        {
+          "type": "chocolate_syrup",
+          "quantity": 500
+        },
+        {
+          "type": "sugar_syrup",
+          "quantity": 500
+        },
+        {
+          "type": "coffee_syrup",
+          "quantity": 500
+        }
+      ],
+      "beverages": [
+        {
+          "name": "espresso",
+          "display_name": "Espresso",
+          "ingredients": [
+            {
+              "type": "hot_water",
+              "quantity": 50
+            },
+            {
+              "type": "hot_milk",
+              "quantity": 50
+            },
+            {
+              "type": "chocolate_syrup",
+              "quantity": 50
+            },
+            {
+              "type": "sugar_syrup",
+              "quantity": 50
+            },
+            {
+              "type": "coffee_syrup",
+              "quantity": 50
+            }
+          ]
+        },
+        {
+          "name": "double_espresso",
+          "display_name": "Double Espresso",
+          "ingredients": [
+            {
+              "type": "hot_water",
+              "quantity": 200
+            },
+            {
+              "type": "hot_milk",
+              "quantity": 150
+            },
+            {
+              "type": "sugar_syrup",
+              "quantity": 50
+            },
+            {
+              "type": "coffee_syrup",
+              "quantity": 200
+            }
+          ]
+        },
+        {
+          "name": "mocha",
+          "display_name": "Mocha",
+          "ingredients": [
+            {
+              "type": "hot_water",
+              "quantity": 100
+            },
+            {
+              "type": "hot_milk",
+              "quantity": 200
+            },
+            {
+              "type": "chocolate_syrup",
+              "quantity": 500
+            },
+            {
+              "type": "sugar_syrup",
+              "quantity": 100
+            },
+            {
+              "type": "coffee_syrup",
+              "quantity": 50
+            }
+          ]
+        },
+        {
+          "name": "hot_water",
+          "display_name": "Hot Water",
+          "ingredients": [
+            {
+              "type": "hot_water",
+              "quantity": 100
+            }
+          ]
+        },
+        {
+          "name": "hot_milk",
+          "display_name": "Hot Milk",
+          "ingredients": [
+            {
+              "type": "hot_milk",
+              "quantity": 500
+            }
+          ]
+        }
+      ]
+    }
+}
